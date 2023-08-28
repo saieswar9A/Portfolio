@@ -1,0 +1,461 @@
+body
+{
+    background-image: url(https://wallup.net/wp-content/uploads/2016/05/26/274872-digital_art-dark-Tile-cube.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin-top: opx;
+    padding: 0%;
+    background-attachment: fixed;
+   
+    
+}
+h1:hover
+{
+    background-color: bisque;
+    width: fit-content;
+    color: blueviolet;
+    font-style: italic;
+    margin-left: 35%;
+
+}
+ul
+{
+    padding: 0%;
+    margin: 0 0 0 50px;
+    list-style: none;
+    color: bisque;
+
+}
+li
+{
+    float:left;
+  
+}
+.logo img
+{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 15%;
+    size: 20%;
+    margin-bottom: auto;
+}
+.logo img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+nav a
+{
+    width: 100px;
+    display: block;
+    padding: 20px 70px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color:bisque;
+    text-align: center;  
+}
+nav a:hover
+{
+    color: rgb(105, 209, 30);
+    font-style: italic;
+    font-size: 3rem;
+}
+nav
+{
+    width: 100%;
+    background-color: transparent;
+    overflow: auto;
+    border-radius: 15px ;
+    
+}
+
+h1
+{
+    text-align: center;
+    color: rgb(189, 82, 58);
+    border-radius: 1500cm;
+    background-color: transparent;
+    float: center;
+}
+
+#intro h2 
+{
+  color: rgb(227, 232, 60);
+  background-color: transparent;
+  font-size: xx-large;
+  font-style: italic bold;
+  margin-left: 50px;
+}
+
+#intro p
+{
+ color:white;
+ font-size: x-large;
+ margin-right: 40%;
+ border-radius: 5px;
+ line-height: 50px;
+ margin-left: 20px;
+
+}
+#intro p:hover
+{
+
+ background-image: url(https://cdn.wallpapersafari.com/0/65/HX4RUx.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+.c1
+{
+  color: rgb(227, 232, 60);
+  background-color: transparent;
+  width :fit-content;
+  border-radius: 15px;
+  text-align: center;
+  float: right;
+  margin-right: 20px;
+  font-size: x-large
+  ;
+}
+
+#Schooling img
+{
+    position: absolute;
+    margin-left: 5% ;
+    margin-top: 4%;
+    border-radius: 10%;
+}
+#Table
+{
+    
+    border-color: aliceblue;
+    position: relative;
+    float: right;
+    margin-top: 10%;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: larger;
+    margin-right: -10%;
+    
+}
+#table th td{
+    color: aliceblue;
+}
+
+#c1
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: left;
+    margin-top: 25%;
+    margin-left: 5%;
+    font-size: larger;
+    font-size: x-large
+}
+
+#img
+{
+    position: relative;
+    margin-left: 5% ;
+    margin-top: 7%;
+    border-radius: 10%;
+}
+#Table2
+{
+    
+    border-color: aliceblue;
+    position: relative;
+    float: left;
+    margin-top: 7%;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: larger;
+    margin-left: -14%;
+    
+}
+#table2 th td{
+    color: aliceblue;
+}
+
+
+#Graduation img
+{
+    position: absolute;
+    margin-left: 5% ;
+    margin-top: 10%;
+    border-radius: 5%;
+    margin-right: 3%;
+}
+#Table3
+{
+    
+    border-color: aliceblue;
+    position: relative;
+    float: right;
+    margin-top: 10%;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: larger;
+    margin-right: -13%;
+    
+}
+#table th td{
+    color: aliceblue;
+}
+#c2
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: right;
+    margin-right: 2%;
+    margin-top: 2%;
+    font-size: x-large
+}
+
+#c3
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: left;
+    margin-top: 30%;
+    font-size: x-large;
+    margin-left: 3%;
+
+}
+
+.skills
+{
+    display: inline-flex;
+    margin-left: -15%;
+    margin-top: 15%;
+}
+
+.skills a{
+    padding-right: 10%;
+}
+
+#c4
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: right;
+    font-size: x-large;
+    margin-right: 3%;
+}
+
+#skills
+{
+    display:inline-block;
+    margin-top: 0%;
+    margin-right: 0%;
+}
+#skills a{
+    padding-right: 70px ;
+    padding-bottom: 40px;
+    
+}
+
+
+#c5
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: left;
+    font-size: x-large;
+    margin-top: 2%;
+    margin-left: 3%;
+    padding-bottom: 5%;
+}
+
+#Table4
+{
+    margin-top: 10%;
+    border-color: aliceblue;
+    position: absolute;
+    float: center;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: larger;
+    margin-left: 1%;
+}
+#Table4 a
+{
+    text-decoration: none;
+}
+
+#c6 
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: right;
+    font-size: x-large;
+    margin-top: 65%;
+    padding-bottom: 5%;
+    margin-right: 3%;
+}
+
+#certifications img
+{
+    margin-top: 55%;
+    margin-left: 30%;
+}
+
+#c7
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: center;
+    margin-left: 45% ;
+    font-size: x-large;
+    margin-top:5%;
+}
+
+.Gallery
+{
+    margin-left: 35%;
+
+}
+.Gallery img{
+    border-radius: 3rem;
+}
+.c8
+{
+ margin-right: 80%;
+margin-top: -13%;
+margin-left: 20%;
+}
+.c9
+{
+ margin-left: 70%;
+ margin-top: -2%;
+}
+
+#c10
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: left;
+    font-size: x-large;
+    margin-top: 15%;
+    margin-left: 3%;
+    padding-bottom: 5%;
+}
+
+#Contact a img
+{
+    margin-top: 24%;
+    margin-left: -5%;
+    display: inline-block;
+    position: relative;
+    padding-right: 10%;
+}
+
+#c11
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    float: right;
+    font-size: x-large;
+    margin-top: 5%;
+    margin-right: 3%;
+    padding-bottom: 5%;
+}
+.pi
+{
+    margin-top: -5%;
+    margin-left: 20%;
+ 
+}
+#c12
+{
+    color: rgb(227, 232, 60);
+    background-color: transparent;
+    width :fit-content;
+    border-radius: 15px;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 5%;
+    margin-right: 3%;
+    margin-left: 30%;
+
+}
+#Address img
+{
+    margin-left: 3%;
+}
+
+pre
+{
+ margin-left: 25%;
+ margin-top: -8%;
+ font-size: x-large;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ color: aliceblue;
+}
+
+.cc 
+{
+   margin-left: 55%;
+ margin-top: -9%;
+ padding-bottom: 20px;
+}
+
+.End img
+{
+    margin-left: 85%;
+    margin-top: -9%;
+    padding-bottom: 25px;
+}
+a{
+    text-decoration: none;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
